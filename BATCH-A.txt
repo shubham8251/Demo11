@@ -1,0 +1,325 @@
+ASDM
+
+advanced software development methodologies
+
+1. classroom google
+
+evaluation (100)
+
+40- external
+
+60- internal [ 20 (mcq) + 40 [lab, assignments,cp])
+
+multiple tool
+
+2. Theory + lab
+
+
+
+
+
+TOOLS
+
+1. SDLC PROCESS N MODELS
+TOOL - JIRA SOFTWARE
+
+2. GIT TOOL
+GIT BASH DOWNLOAD  , SIGN UP ON GITHUB 
+
+3. DESIGN CONCEPTS [DIAGRAMS]
+TOOL:[MS VISIO, UML STUDIO, STARUML]
+
+4. DEVOPS ENGG.
+
+[DOCKER, KUBERNETES, JENKINS ]
+
+5. VIRTUALIZATION [VMWARE]
+
+6. TESTING 
+MANUAL TESTING
+AUTOMATION TESTING [SELENIUM WEBDRIVER] ON ECLIPSE
+
+7. CLOUD COMPUTING
+AWS [EC2, S3, LAMBDA]
+====================================================
+
+
+
+SOFTWARE ENGINEERING
+
+SDLC PROCESS
+SDLC MODELS
+
+CODING
+
+SOFTWARE ENGINEERING
+
+SOFTWARE PROCESS
+Learn techniques of:  specification, 
+design, 
+interface development, 
+testing, 
+project management, etc.
+
+
+O-O DESIGN, ANALYSIS
+
+
+PROGRAM  , SOFTWARE PRODUCT
+
+
+SOFTWARE PROCESS
+
+PHASES OF SDLC
+
+1. Feasibility study
+
+2. REQUIREMENT ANALYSIS AND SPECIFICATION
+
+SRS : SOFTWARE REQUIREMENT SPECIFICATION
+
+BUSINESS ANALYSTS
+
+3. DESIGN
+Two design approaches: 
+traditional approach: ER DIAGRAM, DFD
+object oriented approach : UML DIAGRAMS
+
+SOFTWARE ARCHITECT: DD
+
+4. CODING : DEVELOPERS
+
+5. TESTING
+TESTER
+6. MAINTAINENCE
+
+SDLC MODELS
+ADV. , DISADV., FEATURES
+1. BUILD N FIX
+2. WATERFALL 
+3. PROTOTYPE
+4. EVOLUTIONARY
+   INCREMENTAL
+   SPIRAL
+============================================
+AGILE MODEL 
+
+Jira Software
+[ SCRUM] JIRA SOFTWARE
+=========================================
+ FOCUS ON THE CODE RATHER THAN DESIGN, 
+DOCUMENTATION
+> ITERATIVE
+> INCREMENTAL
+
+
+
+
+SOFTWARE PROCESS 
+
+
+ATLASSIAN JIRA
+
+> EMAIL VERIFY
+
+> LOGIN 
+
+YOUR SITE:  pgsep.atlassian.net
+
+AGREE
+
+SKIP ALL THE QUESTIONS
+
+=============================================
+
+CREATE A PROJECT
+
+
+
+SDLC MODELS
+
+FEATURES, ADV. , DISADV.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEVEOPLMENT N DELIVERY OF SOFTWARE PRODUCT
+
+INCREMENT             ITERATIVE
+
+ADD ON                  CHANGE
+
+NEW SECTION		REPEATING THE PROCESS 
+                        ON SAME SECTION OF WORK
+
+
+
+
+
+
+verification
+
+previous phase verify W.R.T PHASE
+
+validating 
+
+software product is validated w.r.t SRS
+
+
+
+
+
+SCRUM
+
+> FEATURES [ PRODUCT BACKLOG, SPRINT BACKLOG]
+> SPRINT
+> TYPES OF ISSUES IN SCRUM METHOD
+: STORY, EPIC, BUG, TASK
+> SCRUM FRAMEWORK
+ROLE, CEREMONIES, ARTIFACTS
+
+> SCRUM WORKING PRINCIPLE
+
+
+SPRINT
+
+SPRINT PLAN, WORK(CODING), SPRINT REVIEW
+
+PRODUCT BACKLOG
+
+SHOPPING WEBSITE
+
+FEATURES OF THE PRODUCT  ARE STORED 
+IN PRODUCT BACKLOG
+REQUIREMENTS OF PRODUCT   PRODUCT OWNER
+> NEW REGISTER CAN REGISTER
+> REGISTERED USER CAN BROWS ITEMS LISTED
+> REGISTERED USER CAN ADD ITEMS TO CART
+> REGISTERED USER CAN MAKE PAYMENT FOR ITEMS ADDED
+
+SPRINT BACKLOG
+S1:NEW REGISTER CAN REGISTER (APR.)
+S2:REGISTERED USER CAN BROWS ITEMS LISTED (MAY)
+S3:REGISTERED USER CAN ADD ITEMS TO CART   (JUNE)
+REGISTERED USER CAN MAKE PAYMENT FOR ITEMS ADDED
+
+
+
+TYPES OF ISSUE
+
+EPIC
+STORY   SUB-TASK  STORY POINT
+
+TASK
+
+BUG : SERVER ERROR
+Q. 
+CREATE A PROJECT [SCRUM TEMPLATE] 
+TEAM-MANAGED 
+Q. CREATE ANOTHER PROJECT [SCRUM TEMPLATE] 
+COMPANY- MANAGED TYPE
+
+HOW TO CREATE
+PROJECTS==== CREATE [NEW PROJECT]
+KINDLY EXPLORE TYPES OF ISSUES,
+ BACKLOG, SPRINT, ACTIVE BOARD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DOD , DOR
+
+
+
+
+
+COMPANY-MANAGED TYPE 
+
+BACKLOG
+
+> CREATE THE PRODUCT BACKLOG
+WRITE THE FEATURES OF THE PROJECT IN THE FORM OF
+EPIC, 
+STORY , BUG, TASK
+
+
+Issue ---story
+
+> Edit story individually  [...]
+
+> open the story in new tab and study the 
+parameters given in left side
+
+assignee, story point, sprint no. , versions
+components
+
+
+
+
+
+story, sprint, sprint backlog, track the charts
+
+
+
+
+
+
+
+
+
+
+
+
+> CREATE N PLAN THE SPRINT BACKLOG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
